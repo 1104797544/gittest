@@ -1,4 +1,4 @@
-this is my first git repo file. updated dev branch
+this is my first git repo file. updated master
 add new line.
 word zone
 git tracks changes of files.
