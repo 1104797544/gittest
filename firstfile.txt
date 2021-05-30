@@ -2,3 +2,4 @@ this is my first git repository file. maual resovle conficts and commit, then me
 add new line.
 word zone
 git tracks changes of files.
+test issue branch
