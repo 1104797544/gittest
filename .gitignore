@@ -3,4 +3,4 @@
 *.class
 
 #python
-.py[co]
+*.py[co]
