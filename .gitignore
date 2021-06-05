@@ -1,0 +1,6 @@
+
+#java
+*.class
+
+#python
+.py[co]
